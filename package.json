@@ -1,0 +1,19 @@
+{
+  "name": "ottava-debug",
+  "version": "1.0.0",
+  "description": "Ottava debugging utility class.",
+  "main": "src/Debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottava-co/debug.git"
+  },
+  "author": "Fabio Ilian Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottava-co/debug/issues"
+  },
+  "homepage": "https://github.com/ottava-co/debug#readme"
+}
